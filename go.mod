@@ -41,6 +41,7 @@ require (
   github.com/quozd/awesome-dotnet v0.0.0-87848373df98e4c4dccbefa664705bb50e4e929b // indirect
   github.com/thangchung/awesome-dotnet-core v0.0.0-15e307a03b9d87e521e88866934bc1d312560dd7 // indirect
   github.com/ironcev/awesome-roslyn v0.0.0-7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37 // indirect
+  github.com/torvalds/linux	v0.0.0-7eb315eec6bd3fbaf44bb5c08e42e78d4b248f37 // indirect
   github.com/miguelmota/awesome-amazon-alexa v0.0.0-7cb6f32d7a4963d3b728190198d199a9b027c8fc // indirect
   github.com/jonleibowitz/awesome-digitalocean v0.0.0-0e9ae3b9b5ac78b5bd1561e7a022c36fe689745c // indirect
   github.com/Solido/awesome-flutter v0.0.0-aded2422343ee6e063f14909c0ad978b6e32dd5b // indirect
